@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zatvorky", "Zatvorky\Zatvorky.csproj", "{0A4C8D59-6764-4332-BC06-92B75F82133E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZatvorkyTests", "ZatvorkyTests\ZatvorkyTests.csproj", "{7A3B93E2-4179-44B4-9F01-37BC9D9CDD6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A4C8D59-6764-4332-BC06-92B75F82133E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A4C8D59-6764-4332-BC06-92B75F82133E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A4C8D59-6764-4332-BC06-92B75F82133E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A4C8D59-6764-4332-BC06-92B75F82133E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A3B93E2-4179-44B4-9F01-37BC9D9CDD6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A3B93E2-4179-44B4-9F01-37BC9D9CDD6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A3B93E2-4179-44B4-9F01-37BC9D9CDD6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A3B93E2-4179-44B4-9F01-37BC9D9CDD6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

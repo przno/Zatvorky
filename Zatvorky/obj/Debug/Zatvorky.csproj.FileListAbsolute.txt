@@ -1,0 +1,6 @@
+C:\Users\Martin Praznovsky\Documents\Visual Studio 2015\Projects\Zatvorky\Zatvorky\bin\Debug\Zatvorky.exe.config
+C:\Users\Martin Praznovsky\Documents\Visual Studio 2015\Projects\Zatvorky\Zatvorky\bin\Debug\Zatvorky.exe
+C:\Users\Martin Praznovsky\Documents\Visual Studio 2015\Projects\Zatvorky\Zatvorky\bin\Debug\Zatvorky.pdb
+C:\Users\Martin Praznovsky\Documents\Visual Studio 2015\Projects\Zatvorky\Zatvorky\obj\Debug\Zatvorky.csprojResolveAssemblyReference.cache
+C:\Users\Martin Praznovsky\Documents\Visual Studio 2015\Projects\Zatvorky\Zatvorky\obj\Debug\Zatvorky.exe
+C:\Users\Martin Praznovsky\Documents\Visual Studio 2015\Projects\Zatvorky\Zatvorky\obj\Debug\Zatvorky.pdb
